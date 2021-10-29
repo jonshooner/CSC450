@@ -11,9 +11,13 @@
 }
 .title {
     height: 10%;
-    margin-left: 5px;
+    width: 1fr;
+ 
     border-bottom: 1px;
     border-color: #3bb1ff;
+    text-align: center;
+    background-color: #fff;
+    color: #fff;
    
 }
 * {
