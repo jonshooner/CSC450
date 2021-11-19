@@ -54,7 +54,7 @@ def show_custom_labels(model,bucket,photo, min_confidence):
 
 def main():
 
-    bucket='MY_BUCKET'
+    bucket='senior-research12'
     photo='MY_IMAGE_KEY'
     model='arn:aws:rekognition:us-east-1:128503088615:project/Senior_Research/version/Senior_Research.2021-11-18T22.44.11/1637293451417'
     min_confidence=95
